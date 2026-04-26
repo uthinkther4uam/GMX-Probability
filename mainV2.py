@@ -13,6 +13,7 @@ You can only activate 1 “GMX Applied Experiment #55” per turn.
 '''
 
 #prototype code, no longer used
+'''
 def start():
     count = 0
     success = 0
@@ -42,6 +43,7 @@ def start():
     print("1 Dinosaurs")
     print("Success: ", success / count * 100, "%")
     #print("Failure: ", failure / count * 100, "%")
+'''
 
 def gmxOdds(decklist):
     count = 0
